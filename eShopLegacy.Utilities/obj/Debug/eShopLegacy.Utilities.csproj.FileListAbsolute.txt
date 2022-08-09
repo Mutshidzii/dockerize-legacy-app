@@ -1,0 +1,6 @@
+C:\PRACTICAL C#\eShopModernizing-main\eShopLegacyMVCSolution\eShopLegacy.Utilities\bin\Debug\eShopLegacy.Utilities.dll
+C:\PRACTICAL C#\eShopModernizing-main\eShopLegacyMVCSolution\eShopLegacy.Utilities\bin\Debug\eShopLegacy.Utilities.pdb
+C:\PRACTICAL C#\eShopModernizing-main\eShopLegacyMVCSolution\eShopLegacy.Utilities\obj\Debug\eShopLegacy.Utilities.csproj.AssemblyReference.cache
+C:\PRACTICAL C#\eShopModernizing-main\eShopLegacyMVCSolution\eShopLegacy.Utilities\obj\Debug\eShopLegacy.Utilities.csproj.CoreCompileInputs.cache
+C:\PRACTICAL C#\eShopModernizing-main\eShopLegacyMVCSolution\eShopLegacy.Utilities\obj\Debug\eShopLegacy.Utilities.dll
+C:\PRACTICAL C#\eShopModernizing-main\eShopLegacyMVCSolution\eShopLegacy.Utilities\obj\Debug\eShopLegacy.Utilities.pdb

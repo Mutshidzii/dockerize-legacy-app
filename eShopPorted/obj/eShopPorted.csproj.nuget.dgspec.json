@@ -1,0 +1,133 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\PRACTICAL C#\\eShopLegacyMVCSolution\\eShopPorted\\eShopPorted.csproj": {}
+  },
+  "projects": {
+    "C:\\PRACTICAL C#\\eShopLegacyMVCSolution\\eShopLegacy.Utilities\\eShopLegacy.Utilities.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\PRACTICAL C#\\eShopLegacyMVCSolution\\eShopLegacy.Utilities\\eShopLegacy.Utilities.csproj",
+        "projectName": "eShopLegacy.Utilities",
+        "projectPath": "C:\\PRACTICAL C#\\eShopLegacyMVCSolution\\eShopLegacy.Utilities\\eShopLegacy.Utilities.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\PRACTICAL C#\\eShopLegacyMVCSolution\\eShopPorted\\eShopPorted.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PRACTICAL C#\\eShopLegacyMVCSolution\\eShopPorted\\eShopPorted.csproj",
+        "projectName": "eShopPorted",
+        "projectPath": "C:\\PRACTICAL C#\\eShopLegacyMVCSolution\\eShopPorted\\eShopPorted.csproj",
+        "packagesPath": "C:\\Users\\MutshidziPhaswana\\.nuget\\packages\\",
+        "outputPath": "C:\\PRACTICAL C#\\eShopLegacyMVCSolution\\eShopPorted\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MutshidziPhaswana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {
+              "C:\\PRACTICAL C#\\eShopLegacyMVCSolution\\eShopLegacy.Utilities\\eShopLegacy.Utilities.csproj": {
+                "projectPath": "C:\\PRACTICAL C#\\eShopLegacyMVCSolution\\eShopLegacy.Utilities\\eShopLegacy.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "dependencies": {
+            "Antlr": {
+              "target": "Package",
+              "version": "[3.5.0.2, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[4.9.1, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "Autofac.Mvc5": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "WebGrease": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.10, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.107\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
