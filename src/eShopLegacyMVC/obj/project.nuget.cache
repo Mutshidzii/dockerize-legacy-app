@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "musAwcEujrpzC76ARHeVGgxZ4E0pLF5aVznPcx/0RBdtGzbRc4Nxz/i8OAorcf9+qzHr+hTgG+qT6hlrDiaLDQ==",
+  "dgSpecHash": "Vr4ztfdNWzMtqsfb1WVHfV8SqLrRfZ/a5ld0+od9DG0//XZ7qarTKy+H9t3mveRmwBCXBzFsaCH3SMdP5rWJAA==",
   "success": true,
   "projectFilePath": "C:\\PRACTICAL C#\\eShopLegacyMVCSolution\\src\\eShopLegacyMVC\\eShopLegacyMVC.csproj",
   "expectedPackageFiles": [
@@ -34,6 +34,7 @@
     "C:\\Users\\MutshidziPhaswana\\.nuget\\packages\\microsoft.codedom.providers.dotnetcompilerplatform\\2.0.1\\microsoft.codedom.providers.dotnetcompilerplatform.2.0.1.nupkg.sha512",
     "C:\\Users\\MutshidziPhaswana\\.nuget\\packages\\microsoft.jquery.unobtrusive.validation\\3.2.11\\microsoft.jquery.unobtrusive.validation.3.2.11.nupkg.sha512",
     "C:\\Users\\MutshidziPhaswana\\.nuget\\packages\\microsoft.net.compilers\\2.10.0\\microsoft.net.compilers.2.10.0.nupkg.sha512",
+    "C:\\Users\\MutshidziPhaswana\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\MutshidziPhaswana\\.nuget\\packages\\microsoft.web.infrastructure\\1.0.0\\microsoft.web.infrastructure.1.0.0.nupkg.sha512",
     "C:\\Users\\MutshidziPhaswana\\.nuget\\packages\\modernizr\\2.8.3\\modernizr.2.8.3.nupkg.sha512",
     "C:\\Users\\MutshidziPhaswana\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
